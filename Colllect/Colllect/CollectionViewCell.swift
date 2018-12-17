@@ -61,6 +61,7 @@ class CollectionViewCell: UICollectionViewCell {
         if(progress.progress == 1.0)
         {
             //progressBarTimer.invalidate()
+    
             isRunning = false
             //start.setTitle("Start", for: .normal)
         }
