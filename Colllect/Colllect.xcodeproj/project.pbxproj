@@ -16,6 +16,7 @@
 		212C6F3D21C3AD7C00069A07 /* ColllectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 212C6F3C21C3AD7C00069A07 /* ColllectTests.swift */; };
 		212C6F4821C3AD7C00069A07 /* ColllectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 212C6F4721C3AD7C00069A07 /* ColllectUITests.swift */; };
 		212C6F9321C3C50B00069A07 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 212C6F9221C3C50B00069A07 /* CollectionViewCell.swift */; };
+		7290EE6221C7A83700BC0DEF /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7290EE6121C7A83700BC0DEF /* CollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		212C6F4721C3AD7C00069A07 /* ColllectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColllectUITests.swift; sourceTree = "<group>"; };
 		212C6F4921C3AD7C00069A07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		212C6F9221C3C50B00069A07 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		7290EE6121C7A83700BC0DEF /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				212C6F2621C3AD7A00069A07 /* ViewController.swift */,
 				212C6F9221C3C50B00069A07 /* CollectionViewCell.swift */,
 				212C6F2821C3AD7A00069A07 /* Main.storyboard */,
+				7290EE6121C7A83700BC0DEF /* CollectionViewController.swift */,
 				212C6F2E21C3AD7B00069A07 /* Assets.xcassets */,
 				212C6F3021C3AD7B00069A07 /* LaunchScreen.storyboard */,
 				212C6F3321C3AD7B00069A07 /* Info.plist */,
@@ -266,6 +269,7 @@
 				212C6F2D21C3AD7A00069A07 /* Colllect.xcdatamodeld in Sources */,
 				212C6F9321C3C50B00069A07 /* CollectionViewCell.swift in Sources */,
 				212C6F2521C3AD7A00069A07 /* AppDelegate.swift in Sources */,
+				7290EE6221C7A83700BC0DEF /* CollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
